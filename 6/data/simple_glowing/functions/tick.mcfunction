@@ -1,0 +1,1 @@
+execute as @a unless data entity @s ActiveEffects[{Id:24b}] run effect give @s minecraft:glowing 1000000 0 true
