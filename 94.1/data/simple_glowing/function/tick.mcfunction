@@ -1,0 +1,1 @@
+execute as @a unless data entity @s active_effects[{id:"minecraft:glowing"}] run effect give @s minecraft:glowing infinite 0 true
